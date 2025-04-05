@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+body{
+    text-align: center;
+}
+
+
+
+
+
+div{
+    width: 10cm;
+    display: inline-block;
+    border: 2px solid black;
+    background-color: gray;
+    border-radius: 30px;
+    padding: 50px;
+    text-align: center;
+    margin: 5cm;
+
+
+}
+
+#user{
+    margin-right: 40px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 13px 26px;
+
+    border: none;
+}
+
+#pass{
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding: 13px 26px;
+    border-radius: 20px;
+    border: none;
+}
+button{
+    cursor: pointer;
+    background-color:#04AA6D;
+    border: none;
+    border-radius: 20px;
+    padding: 13px 26px;
+
+}
